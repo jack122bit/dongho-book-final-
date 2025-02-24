@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 35: expected '=' not found.
+    define audio.Clannad Soundtrack_ Track 9_ Her Determination.mp3 = "Clannad Soundtrack_ Track 9_ Her Determination.mp3"
+                         ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Mon Feb 24 06:15:32 2025
